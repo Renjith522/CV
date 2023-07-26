@@ -1,0 +1,40 @@
+body {
+    background-color:#e9f5f9;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 1px;
+    border-color: grey;
+}
+ul {
+    color: black;
+    font-size: large;
+}
+
+table {
+    color: black;
+    font-size: large;
+    padding: 20px;
+}
+
+/*#instagram{
+    align-items: left;
+}
+
+#facebook{
+    align-items: center;
+}
+
+#linkedin{
+   align-items: right;
+}*/
+
+.headings{
+    font-size: medium;
+}
+
+/*img:hover{
+    height: 250px;
+    width: 250px;
+}*/
